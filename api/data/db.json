@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Electronics",
+      "display_name": "Home Electronics"
+    },
+    {
+      "_id": 2,
+      "name": "Books",
+      "display_name": "Books and Magazines"
+    },
+    {
+      "_id": 3,
+      "name": "Kitchenware",
+      "display_name": "Kitchen and BBQ"
+    },
+    {
+      "_id": 3,
+      "name": "Hardware",
+      "display_name": "Tools and Hardware"
+    },
+    {
+      "name": "Houseware",
+      "display_name": "Houseware",
+      "_id": 4
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": 1,
+      "name": "Fancy Laptop",
+      "display_name": "Lenovo XYZ",
+      "description": "A fast Windows laptop with 15 inch screen."
+    },
+    {
+      "_id": 2,
+      "category": 1,
+      "name": "Large Monitor",
+      "display_name": "26 Inch Computer Monitor",
+      "description": "A large monitor to make working easier."
+    },
+    {
+      "_id": 3,
+      "category": 2,
+      "name": "A Farewell to Arms",
+      "display_name": "A Farewell to Arms by Ernest Hemmingway",
+      "description": "The iconic novel of the damage done by WWI."
+    },
+    {
+      "_id": 4,
+      "category": 3,
+      "name": "Zoomie Espresso Machine",
+      "display_name": "Zoomie Espresso Extraordinaire",
+      "description": "The best way to get your morning caffeine fix."
+    },
+    {
+      "_id": 5,
+      "category": 3,
+      "name": "Spotlessly Dishwasher",
+      "display_name": "Spotlessly Automatic Dishwasher",
+      "description": "Wash your dishes quickly and quietly."
+    }
+  ]
+}
