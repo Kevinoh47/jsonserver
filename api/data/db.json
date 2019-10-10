@@ -16,14 +16,19 @@
       "display_name": "Kitchen and BBQ"
     },
     {
-      "_id": 3,
+      "_id": 4,
       "name": "Hardware",
       "display_name": "Tools and Hardware"
     },
     {
       "name": "Houseware",
       "display_name": "Houseware",
-      "_id": 4
+      "_id": 5
+    },
+    {
+      "name": "Cheese",
+      "display_name": "Fancy Cheese",
+      "_id": 6
     }
   ],
   "products": [
